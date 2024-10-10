@@ -1,0 +1,12 @@
+﻿  fonction.c
+C:\BS_TEST\programation\Projet_de_Base_juste_a_CTRLC_CTRLV\Projet_de_Base_juste_a_CTRLC_CTRLV\fonction.c(23,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\BS_TEST\programation\Projet_de_Base_juste_a_CTRLC_CTRLV\Projet_de_Base_juste_a_CTRLC_CTRLV\fonction.c(40,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\BS_TEST\programation\Projet_de_Base_juste_a_CTRLC_CTRLV\Projet_de_Base_juste_a_CTRLC_CTRLV\fonction.c(44,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\BS_TEST\programation\Projet_de_Base_juste_a_CTRLC_CTRLV\Projet_de_Base_juste_a_CTRLC_CTRLV\fonction.c(48,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\BS_TEST\programation\Projet_de_Base_juste_a_CTRLC_CTRLV\Projet_de_Base_juste_a_CTRLC_CTRLV\fonction.c(52,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\BS_TEST\programation\Projet_de_Base_juste_a_CTRLC_CTRLV\Projet_de_Base_juste_a_CTRLC_CTRLV\fonction.c(63,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\BS_TEST\programation\Projet_de_Base_juste_a_CTRLC_CTRLV\Projet_de_Base_juste_a_CTRLC_CTRLV\fonction.c(67,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\BS_TEST\programation\Projet_de_Base_juste_a_CTRLC_CTRLV\Projet_de_Base_juste_a_CTRLC_CTRLV\fonction.c(88,24): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  main.c
+  Génération de code en cours...
+  Projet_de_Base_juste_a_CTRLC_CTRLV.vcxproj -> C:\BS_TEST\programation\Projet_de_Base_juste_a_CTRLC_CTRLV\x64\Debug\Projet_de_Base_juste_a_CTRLC_CTRLV.exe

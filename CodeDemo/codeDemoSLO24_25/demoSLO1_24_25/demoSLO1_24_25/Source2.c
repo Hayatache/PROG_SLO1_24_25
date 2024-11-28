@@ -2,7 +2,7 @@
 // Projet Name 			: demoSLO1_24_25
 // File Name 			: Source2.c 
 // Creation Date 		: 19.09.2024
-// Modification Date	: 10.10.2024
+// Modification Date	: 21.11.2024
 //
 // Authors 				: Philou (Ph. Bovey)
 //
@@ -153,6 +153,21 @@ int slo(void)
     a = (char)127;
     a = a << 4;
 
+    //-- post incérmentationn 
+    a = 10; 
+    b = 1;
+
+    c = a + b++;            
+
+    d = a + (b++); 
+
+    a = 10;
+    b = 1;
+
+    c = a + ++b;
+
+
+
     // si a faut 0 => paranthèse retourne 0 
     // si a différent de 0 => parenthèse retourne 1
     if (a) {}
@@ -205,5 +220,38 @@ int slo(void)
 
 
 
+    switch (a)
+    {
+        case 10 : 
+        case 100 : 
+            // instruction à la valeur 10 
+
+            break; 
+
+        case 1000 : 
+            // instrcution  lié au cas 100 
+
+        default : 
+            break; 
+
+    }
+
+
   return(0);
+}
+
+
+// 1) paramètre de sortie -> uniquement un type  2) Nom de la fonction -> Camel Case 3) paramètre d'entrée de 0 à plusieurs (un type + nom) 
+e_surfaceChoice DemonstrationSlo1(int A, char B, double DD)        // soit rien mettre = void ou type nom, type nom, type nom
+{
+    //-- variable
+    e_surfaceChoice demoEnum = square;
+
+    A = circle; 
+
+    //-- vos instruction 
+    // -> utilisation de chapitre 3 à 6 en fonction du CDC 
+
+
+    return (e_surfaceChoice)A;
 }
